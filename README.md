@@ -1,9 +1,13 @@
 # Deep-Learning-Youtube
 
-Formation que je suis sur youtube
-C'est des petits projets pour plus de comprehension  
-Codes développés dans les vidéos Tutoriels de la série Deep Learning sur la chaine YouTube Machine Learnia
+Projet deep_learning.
+
+Formation que je suis sur YouTube.
+C'est des petits projets pour mieux comprendre.
+Codes développés dans les vidéos tutoriels de la série Deep Learning sur la chaîne YouTube Machine Learnia.
 
 ## Sylvestre AKOWANOU
 
-## Ceci grace à Guillaume de Marchine Leania
+## Remerciements
+Ceci grâce à Guillaume de Marchine Leania.
+
