@@ -9,5 +9,5 @@ Codes développés dans les vidéos tutoriels de la série Deep Learning sur la 
 ## Sylvestre AKOWANOU
 
 ## Remerciements
-Ceci grâce à Guillaume de Marchine Leania.
 
+Ceci grâce à Guillaume de Marchine Leania.
